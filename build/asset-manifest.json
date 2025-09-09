@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dog-Breeds/static/css/main.a7eff2b8.css",
+    "main.js": "/Dog-Breeds/static/js/main.eec6e511.js",
+    "index.html": "/Dog-Breeds/index.html",
+    "main.a7eff2b8.css.map": "/Dog-Breeds/static/css/main.a7eff2b8.css.map",
+    "main.eec6e511.js.map": "/Dog-Breeds/static/js/main.eec6e511.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7eff2b8.css",
+    "static/js/main.eec6e511.js"
+  ]
+}
